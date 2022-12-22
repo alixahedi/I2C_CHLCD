@@ -15,6 +15,7 @@ void lcd_gotoxy(int col, int row); // put cursor at the entered position row (0 
 
 void lcd_clear (void); // Clear all data printed on lcd
 
-# Persian Tutorial in
 
+
+# Persian Tutorial
 https://digispark.ir/stm32-lcd-i2c/
